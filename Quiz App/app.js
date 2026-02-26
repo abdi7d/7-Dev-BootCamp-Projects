@@ -22,7 +22,7 @@ let score = 0;
 let timer = null;
 let timeLeft = DEFAULT_TIME;
 
-// DOM
+// DOM 
 const startBtn = document.getElementById('start');
 const nextBtn = document.getElementById('next');
 const restartBtn = document.getElementById('restart');
