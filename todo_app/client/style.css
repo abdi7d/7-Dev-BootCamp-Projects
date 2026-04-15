@@ -1,0 +1,19 @@
+
+/* ===============================
+ 🎨 client/style.css
+ ===============================
+*/
+
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+li {
+  margin: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
